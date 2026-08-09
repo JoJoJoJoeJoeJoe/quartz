@@ -10,7 +10,7 @@
 
 ## I. TRANSCRIPT
 
-> **[[ADAMI]]:** "Answer. Who do you search for?"
+> **[[Adami]]:** "Answer. Who do you search for?"
 >
 > **THALM:** "We search for--" *(Subject winces.)* "We were searching for some prisoner that escaped. He went through here and killed some gangers!"
 >

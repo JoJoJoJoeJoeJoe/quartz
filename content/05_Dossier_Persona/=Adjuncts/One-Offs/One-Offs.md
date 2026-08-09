@@ -1,0 +1,1 @@
+A unique category grouping seemingly inconsequential individuals together, or individuals who were only briefly involved in the case.

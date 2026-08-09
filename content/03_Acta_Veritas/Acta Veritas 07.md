@@ -12,9 +12,9 @@
 * **Subject A:** Warband -- Alive
 * **Subject B:** [[Iric Advanis]] & [[Ariana Joy]] -- Alive
 * **Subject C:** Psychic-Infected -- Purified
-* **Subject D:** [[Sister Thalia]] & Congregation -- Alive
+* **Subject D:** [[Thalia]] & Congregation -- Alive
 * **Subject E:** [[Panct Ward]] -- Alive
-* **Subject F:** [[Harriet]] -- In custody of [[Sister Thalia]]
+* **Subject F:** [[Harriet]] -- In custody of [[Thalia]]
 * **Subject G:** [[Techas]] -- Cannibalized
 * **Subject H:** Harriet’s Accomplices -- One slain, Others Unknown
 
@@ -22,7 +22,7 @@
 
 ## II. OBJECTIVE
 
-Assist Sister [[Ariana Joy]] in locating a Sister in the Underhive ([[Sister Thalia]])."
+Assist Sister [[Ariana Joy]] in locating a Sister in the Underhive ([[Thalia]])."
 
 ---
 
@@ -42,7 +42,7 @@ We decided to stake out at the building while our more covert members, that bein
 
 Lucky found and captured Redan, who so boldly proclaimed ‘they’ would topple the spires. Evodine interrogated and then purged Redan of influence. So, too, was Redan given to the custody of Sister Thalia.
 
-Iric pointed out a potential informant, ‘The Old Crank,’ who we visited. He revealed to us that there was a layer deeper than where we stood and that ‘they’ (genestealers) use the dysfunctional breath recycler as a concealed access point. He granted us old schematics of the local area (see [[AV-07 Verispex Analysis]], Item 03). After that, we escorted two cooperative locals to Sister Thalia’s congregation; however, along the way, the bulk of our party was drawn to the sound of a firefight.
+Iric pointed out a potential informant, ‘[[Old Crank|The Old Crank]],’ who we visited. He revealed to us that there was a layer deeper than where we stood and that ‘they’ (genestealers) use the dysfunctional breath recycler as a concealed access point. He granted us old schematics of the local area (see [[AV-07 Verispex Analysis]], Item 03). After that, we escorted two cooperative locals to Sister Thalia’s congregation; however, along the way, the bulk of our party was drawn to the sound of a firefight.
 
 The aftermath of the firefight left one ganger dead on the spot, felled by the Arbitrator [[Zendros]] accompanied by Enforcer [[Kaytia Nintos]]. He was sent our way by [[Aurora Harpina|Lieutenant Harpina]] on the pretense that we can assist one another in our agendas. For the Arbitrator, he seeks to restore Initeium’s capability to restore tithes while we seek to purge it of its corruption. We were fast allies and joined together. With the matter settled, we all -- at last -- went through Hope’s Gate and entered the community Sister Thalia has banded together.
 

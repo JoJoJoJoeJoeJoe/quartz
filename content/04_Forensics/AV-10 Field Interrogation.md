@@ -16,13 +16,13 @@
 >
 > **NU-RHO:** "Only supposition. Incorrect procedure to say. Possible threats are Heretek biologis manipulating mutations: this is the preferred option. Alternative: Xenos infiltrator vanguard species [[Coraptor Hominis]]. This is the non-preferred option. Has the Inquisitor been informed? What of all relevant-ant-ant-ant Imperial authorities?"
 >
-> **[[ZENDROS]]:** *(Sternly.)* "Hereteks?" *(Pause.)* "That is not my preferred option."
+> **[[Zendros]]:** *(Sternly.)* "Hereteks?" *(Pause.)* "That is not my preferred option."
 >
-> **[[EVODINE]]:** "None of this, is the preferred option."
+> **[[Evodine]]:** "None of this, is the preferred option."
 >
 > **JOVE:** "Let the metasurgeon tell us why Coraptor hominis is the non-prefered option." *(Then, speaking to Nu-Rho.)* "But, to answer your question, I have reached out to the Inquisition."
 >
-> **[[ADAMI]]:** *(In the distance.)* "Both can be purged."
+> **[[Adami]]:** *(In the distance.)* "Both can be purged."
 >
 > **NU-RHO:** "Common name: Genestealer. Infiltrator species of hostile xenos race. Mutated form here is none standard which lends evidence to the preferred option of Heretek biologis -- a dangerous but lesser threat. If it is a genestealer, this indicates a matured infiltration -- problematic."
 >

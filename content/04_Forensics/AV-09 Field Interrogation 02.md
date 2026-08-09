@@ -10,7 +10,7 @@
 
 ## I. TRANSCRIPT
 
-> **[[EVODINE]]:** "She isn't infected. Her name is Isolde. She was given the revolver... and she's not too bright."
+> **[[Evodine]]:** "She isn't infected. Her name is Isolde. She was given the revolver... and she's not too bright."
 >
 > **ISOLDE:** *(Gagged. Interjects.)* "Mmph!"
 >
@@ -28,7 +28,7 @@
 >
 > **ISOLDE:** *(Looking up.)* "Eh? Damn, you're like a baby Ogryn." *(Dreamily.)* "Nice eyes... uh... wha- Oh yeah. My own. That's who! I'm just an enterprising hand you see -- I do a lot for those that pay."
 >
-> **[[ADAMI]]:** "Thank you. I will reward you more than you could ask to describe those who hired you."
+> **[[Adami]]:** "Thank you. I will reward you more than you could ask to describe those who hired you."
 >
 > **ISOLDE:** "Just a scribe looking fellow I met in high hive. Real dry -- Davin was his name. This reward... Not my final one is it?"
 >
@@ -38,7 +38,7 @@
 >
 > **JOVE:** "Before we continue. What exactly is her crime, Arbitrator?"
 >
-> **[[ZENDROS]]:** "Section 1025-04J: Disrespect of an Arbites; Section 1025-05W: Conducting the enforcer's duties outside of station; Section 0502-08P: Use of a firearm in the presence of an Arbites. I don’t believe it matters."
+> **[[Zendros]]:** "Section 1025-04J: Disrespect of an Arbites; Section 1025-05W: Conducting the enforcer's duties outside of station; Section 0502-08P: Use of a firearm in the presence of an Arbites. I don’t believe it matters."
 >
 > **JOVE:** "Unless... Are you contracted through lawful channels? Now would be the time to speak of your employers."
 >

@@ -37,6 +37,6 @@ Once it detected the link, it thought:
 
 This conflict ended in no deaths for the warband and our first meeting with Metasurgeon Nu-Rho. Our discussion with the Metasurgeon can be found in file [[AV-10 Field Interrogation]]. In summary, Nu-Rho identified the corpse as belonging to a xenos infiltrator vanguard species, [[Coraptor Hominis|Coraptor Hominis: Genestealers]]. Note: They showed surprise when [[Zendros|Zendros]] shared he detected higher brain functions within the Metasurgeon’s dysfunctional servitor.
 
-Along the way back to our base, we encountered a series of ghost signals on the auspex and something lingering just on the edges of our periphery. [[Adami]] scouted ahead and found a lone surviving ganger, Grouse, whom she has claimed as a penitent.
+Along the way back to our base, we encountered a series of ghost signals on the auspex and something lingering just on the edges of our periphery. [[Adami]] scouted ahead and found a lone surviving ganger, [[Grouse]], whom she has claimed as a penitent.
 
 At Support Strut iC-96421, the auspex revealed a winding path downwards. Similarly, Lucky’s senses detected a vast hostile presence readying itself for our arrival. I made the decision to better arm ourselves before our next excursion. This concluded our first foray into the Depths of Initeium.

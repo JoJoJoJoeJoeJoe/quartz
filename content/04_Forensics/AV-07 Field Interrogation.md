@@ -1,7 +1,7 @@
 # AV-07 FIELD INTERROGATION 01
 
 > **INTERROGATION METADATA**
-> **INTERROGATION RECORD:** [[Sister Thalia]]
+> **INTERROGATION RECORD:** [[Thalia]]
 > **LOCATION:** Hope’s Gate
 > **PRESENT:** Acolyte [[Julian Jove]]
 > **RECORDING DEVICE:** Dataslate
