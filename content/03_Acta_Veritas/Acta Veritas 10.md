@@ -35,7 +35,7 @@ Once it detected the link, it thought:
 
 > *‘Another. Useful. Targets identified.’*
 
-This conflict ended in no deaths for the warband and our first meeting with Metasurgeon Nu-Rho. Our discussion with the Metasurgeon can be found in file [[AV-10 Field Interrogation]]. In summary, Nu-Rho identified the corpse as belonging to a xenos infiltrator vanguard species, [[Coraptor Hominis|Coraptor Hominis: Genestealers]]. Note: They showed surprise when [[Zendros|Zendros]] shared he detected higher brain functions within the Metasurgeon’s dysfunctional servitor.
+This conflict ended in no deaths for the warband and our first meeting with Metasurgeon Nu-Rho. Our discussion with the Metasurgeon can be found in file [[AV-10 Field Interrogation]]. In summary, Nu-Rho identified the corpse as belonging to a xenos infiltrator vanguard species, [[Coraptor Hominis|Coraptor Hominis: Genestealers]]. Note: They showed surprise when [[Zendros Vayle|Zendros]] shared he detected higher brain functions within the Metasurgeon’s dysfunctional servitor.
 
 Along the way back to our base, we encountered a series of ghost signals on the auspex and something lingering just on the edges of our periphery. [[Adami]] scouted ahead and found a lone surviving ganger, [[Grouse]], whom she has claimed as a penitent.
 

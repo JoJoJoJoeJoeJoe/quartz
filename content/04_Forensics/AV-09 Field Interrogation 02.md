@@ -14,7 +14,7 @@
 >
 > **ISOLDE:** *(Gagged. Interjects.)* "Mmph!"
 >
-> *(RECORD: Voices in the background: Ganger, [[Zendros]], Remi, [[Adami]].)*
+> *(RECORD: Voices in the background: Ganger, [[Zendros Vayle]], Remi, [[Adami]].)*
 >
 > **ISOLDE:** *(Ungagged.)* "Blegh! What are you doing? Kill the gangers. They aren't good people!"
 >
@@ -38,7 +38,7 @@
 >
 > **JOVE:** "Before we continue. What exactly is her crime, Arbitrator?"
 >
-> **[[Zendros]]:** "Section 1025-04J: Disrespect of an Arbites; Section 1025-05W: Conducting the enforcer's duties outside of station; Section 0502-08P: Use of a firearm in the presence of an Arbites. I don’t believe it matters."
+> **[[Zendros Vayle|ZENDROS]]:** "Section 1025-04J: Disrespect of an Arbites; Section 1025-05W: Conducting the enforcer's duties outside of station; Section 0502-08P: Use of a firearm in the presence of an Arbites. I don’t believe it matters."
 >
 > **JOVE:** "Unless... Are you contracted through lawful channels? Now would be the time to speak of your employers."
 >

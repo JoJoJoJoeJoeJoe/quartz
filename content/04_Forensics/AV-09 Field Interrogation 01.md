@@ -10,11 +10,11 @@
 
 ## I. TRANSCRIPT
 
-> **[[Evodine]]:** "Why are you after this woman ([[Isolde]])?"
+> **[[Evodine|EVODINE]]:** "Why are you after this woman ([[Isolde]])?"
 >
 > **GANGER:** *(Cry of pain.)* "She… killed our guys! Stole... from us!"
 >
-> **[[Zendros]]:** "What more do you have to say, scum? What did she steal?"
+> **[[Zendros Vayle|ZENDROS]]:** "What more do you have to say, scum? What did she steal?"
 >
 > **GANGER:** "Ugh... Nothing you need to worry about -- just stuff the boss gave us... It's the principle of the matter!"
 >
