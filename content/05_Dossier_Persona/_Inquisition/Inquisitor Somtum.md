@@ -11,14 +11,14 @@
 ---
 
 ## Operational Background
-[Insert background, recruitment record, and notable operational deployments.]
+Only you and the Lord Inquisitor would know, my lord.
 
 ## Capabilities & Wargear
-* **Primary Skillset:** [Key combat, diplomatic, or technical skills]
-* **Issued Equipment:** [Custom sidearms, dataslates, protective gear]
-* **Special Approvals:** [Inquisitorial warrants, requisition passes]
+* **Primary Skillset:** ———
+* **Issued Equipment:** ———
+* **Special Approvals:** ———
 
 ## Assessment & Directives
 
 > **PSYCHOLOGICAL & LOYALTY EVALUATION**
-> [Insert psychological profile, radical/puritan leanings, or risk assessments.]
+> I know little of you, other than your predilection of asking hard and fickle questions. Your entry here is so that I can attach other files to it.

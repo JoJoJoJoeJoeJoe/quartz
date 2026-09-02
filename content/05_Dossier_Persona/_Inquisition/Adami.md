@@ -21,7 +21,7 @@ Adami is the heiress of a Death Cult originating on a Cemetery World whose popul
 ## Assessment & Directives
 
 > **PSYCHOLOGICAL & LOYALTY EVALUATION**
-> Adami is, by my measure, a *hyper-orthodox puritan*. In this regard, she prefers execution and complete destruction at the vaguest suggestion of heresy (the old adage 'measure twice, cut once' doesn't apply much to this woman). Like what I've heard of other death cults, some of her beliefs – such as purity through pain – appear excessive and borderline heretical. It is to my understanding that her relationship with pain is masochistic, experiencing catharsis (pleasure?) in its presence. Nonetheless, her faith and devotion to the Emperor is fervent and is unrivaled by any in my retinue, with the Emperor often preoccupying her mind.
+> Adami is, by my measure, a *ultra-orthodox puritan*. In this regard, she prefers execution and complete destruction at the vaguest suggestion of heresy (the old adage 'measure twice, cut once' doesn't apply much to this woman). Like what I've heard of other death cults, some of her beliefs – such as purity through pain – appear excessive and borderline heretical. It is to my understanding that her relationship with pain is masochistic, experiencing catharsis (pleasure?) in its presence. Nonetheless, her faith and devotion to the Emperor is fervent and is unrivaled by any in my retinue, with the Emperor often preoccupying her mind.
 > 
 > A recent development in Adami is her acceptance of penance through means other than death. Similarly, due to the complex nature of this assignment, she has become more considerate and thoughtful to nuance. Her time as an assassin, I believe, conditioned complete deference to authority; however, this assignment has demanded greater abstract thinking and reasoning of her. The more independent and autonomous behavior is a result of this, I believe.
 > 
@@ -29,4 +29,4 @@ Adami is the heiress of a Death Cult originating on a Cemetery World whose popul
 > 
 > In case if this becomes of any importance, I will report: Adami seems to be infatuated with [[Julian Jove|me]] and wished for betrothal soon after our meeting, and maintained this belief after she came to know I was a psyker. In interest of developing this connection and asset, we have engaged in the beginning stages of courtship.
 > 
-> Her ultimate allegiance is to the Emperor and then her cult (*her family*, as she affectionately calls them), in that order. Of anyone, I believe Adami is the least susceptible to malign influence and treason.
+> Her ultimate allegiance is to the Emperor and then her cult (*her family*, as she affectionately calls them), in that order. Of anyone, I believe Adami is the least susceptible to treason.

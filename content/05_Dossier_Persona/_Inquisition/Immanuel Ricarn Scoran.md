@@ -11,14 +11,14 @@
 ---
 
 ## Operational Background
-[Insert background, recruitment record, and notable operational deployments.]
+Hel if I know. Scoran is an Inquisitorial Agent observing House Advanis, assigned to his post by Inquisitor Somtum. 
 
 ## Capabilities & Wargear
-* **Primary Skillset:** [Key combat, diplomatic, or technical skills]
-* **Issued Equipment:** [Custom sidearms, dataslates, protective gear]
-* **Special Approvals:** [Inquisitorial warrants, requisition passes]
+* **Primary Skillset:** A man good at organizing and disseminating information. He's also got a good mind for this line of work. 
+* **Issued Equipment:** N/A
+* **Special Approvals:** He is an Acolyte of yours.
 
 ## Assessment & Directives
 
 > **PSYCHOLOGICAL & LOYALTY EVALUATION**
-> [Insert psychological profile, radical/puritan leanings, or risk assessments.]
+> I've only had one encounter with Scoran thus far. I have nothing to say about him, other than the fact he seems competent in his work and a proper agent. 

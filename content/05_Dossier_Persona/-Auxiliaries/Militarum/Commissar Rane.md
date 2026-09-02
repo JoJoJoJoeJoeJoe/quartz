@@ -6,7 +6,7 @@
 
 |            Visual Record            | Contract Parameters                                                                                                                           |
 | :---------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![[Commissar Rane Cropped (2).png]] | **Full Name:** [Insert Name]<br>**Profession:** [Pistoleer / Void-farer / Tracker]<br>**Affiliation:** [Freelance / Guild / Mercenary Outfit] |
+| ![[Commissar Rane.png]] | **Full Name:** [Insert Name]<br>**Profession:** [Pistoleer / Void-farer / Tracker]<br>**Affiliation:** [Freelance / Guild / Mercenary Outfit] |
 
 ---
 

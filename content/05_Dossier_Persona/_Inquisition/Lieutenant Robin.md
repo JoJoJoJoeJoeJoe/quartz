@@ -11,14 +11,14 @@
 ---
 
 ## Operational Background
-[Insert background, recruitment record, and notable operational deployments.]
+I know little of the Lieutenant, other than that she is a Kasrkin – which says enough about her honorable service to the Imperium. I know she's been in your service for a year at the least.
 
 ## Capabilities & Wargear
-* **Primary Skillset:** [Key combat, diplomatic, or technical skills]
-* **Issued Equipment:** [Custom sidearms, dataslates, protective gear]
-* **Special Approvals:** [Inquisitorial warrants, requisition passes]
+* **Primary Skillset:** An adept combatant, able to detect and resist psychic phenomenon, and surprisingly comfortable with social nuance and intrigue.
+* **Issued Equipment:** N/A
+* **Special Approvals:** An Acolyte of the Inquisition.
 
 ## Assessment & Directives
 
 > **PSYCHOLOGICAL & LOYALTY EVALUATION**
-> [Insert psychological profile, radical/puritan leanings, or risk assessments.]
+> Lieutenant Robin seems sound of mind. With me, she is more affable than the retinue, and regards [[Evodine]] warily. There isn't much else I have to note about her, but it seems her loyalty to you remains strong as is her dedication to your service. 
